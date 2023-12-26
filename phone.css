@@ -1,0 +1,150 @@
+#navi{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    top: 10px;
+    align-items: center;
+    justify-content: space-between;
+    /* padding: 10px 50px 0px 50px; */
+}
+#logo img{
+    width: 200px;
+}
+#left{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    gap: 10px;
+   
+}
+#left a{
+    
+    padding: 3px 1px;
+    text-align: center;
+    width: 70px;
+    height: 20px;
+    border-radius: 5px;
+    font-size: .7rem;
+    background-color: #c11119;
+    text-decoration: none;
+
+    color: white;
+    
+}
+#left .h {
+    padding: 3px 1px;
+    text-align: center;
+    width: 50px;
+    height: 20px;
+    border: #5e5e5e solid 1px;
+    font-size: .7rem;
+    border-radius: 5px;
+    background-color: #1a1915;
+    text-decoration: none;
+    gap: 10px;
+    color: white;
+    
+}
+#home{
+    margin: 10px 50px 0px 50px;
+   
+    
+}
+#home h1{
+    font-size: 7vw;
+    top: 70px;
+}
+#home h3{
+    font-size: 3vw;
+    top: 100px;
+}
+#co{
+    top:180px;
+    flex-direction: column;
+}
+#a{
+ margin: 0;
+ flex-direction: column;
+}
+#a #r img{
+    width: 300px;
+}
+
+#l {
+    top: 5px;
+    margin-bottom: 20px;
+}
+#l h1{
+    font-size: 3vw;
+}
+#a1{
+    margin: 0;
+    flex-direction: column;
+   }
+   #a1 #r1 img{
+       width: 300px;
+   }
+   
+   #l1 {
+       top: 5px;
+       margin-bottom: 20px;
+   }
+   #l1 h1{
+       font-size: 3vw;
+   }
+
+   #a2{
+    margin: 0;
+    flex-direction: column;
+   }
+   #a2 #r2 img{
+       width: 300px;
+   }
+   
+   #l2 {
+       top: 5px;
+       margin-bottom: 20px;
+   }
+   #l2 h1{
+       font-size: 3vw;
+   }   
+   #a3{
+    margin: 0;
+    flex-direction: column;
+   }
+   #a3 #r3 img{
+       width: 300px;
+   }
+   
+   #l3 {
+       top: 5px;
+       margin-bottom: 20px;
+   }
+   #l3 h1{
+       font-size: 3vw;
+   }
+   #footer{
+    margin-bottom: 120px;
+   }
+ #footer #pp{
+    flex-direction: column;
+    width: 100%;
+   } 
+   #footer #ffff{
+    width: 60px;
+    height: 20px;
+    border-radius: 5px;
+    background-color: rebeccapurple ;
+    color: white;
+    text-align: center;
+    padding: 9px 6px;
+    display: flex;
+    flex-direction: column;
+    
+}
+#ffff a{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    font-size: 2vw;
+}
